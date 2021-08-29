@@ -23,7 +23,7 @@ Horiseon Social Solution Services, Inc.
 
 
 ## Website
-https://randolphrichard.github.io/marketting-startegy/
+https://randolphrichard.github.io/marketing-startegy/
 
 ![](develop/assets/images/1.png)
 ![1](https://user-images.githubusercontent.com/86902237/131243503-3cc4fef9-85a5-4ef0-bb79-5f9d33ec405e.png)
