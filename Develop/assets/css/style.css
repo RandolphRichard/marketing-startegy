@@ -9,50 +9,56 @@ body {
     background-color: #d9dcd6;
 }
 
-/*  apply styles to <header> Section */
-.header {
+/*  Header/ nav bar start. applied styles to <header> Section, Removed the .header class on HTML, Used the <nav> tag. */
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+   
 }
 
-/* Apply Pseudo class on Headed Navigation "Bonus" */
-.header :hover{
+/* Applied Pseudo class on Header Navigation bar "Bonus" */
+header :hover{
     color: #2589bd;
     text-shadow: 1px 1px 20px black;
     }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
+    margin:0;
 }
 
-.header h1 .seo {
+
+header h1 .seo {
     color: #d9dcd6;
 }
 
-.header div {
+header a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    
 }
 
-.header div ul {
+header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* Header/ nav bar end */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
 /* Hero Style Start */
 p {
@@ -92,7 +98,6 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
