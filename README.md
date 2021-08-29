@@ -10,6 +10,7 @@ A website that offers different strategy in order to maximize the number of visi
 * CSS
 
 ## Website
+https://randolphrichard.github.io/marketting-startegy/
 
 ## Contribution
 Made with ❤️ by Horiseon
