@@ -26,8 +26,14 @@ Horiseon Social Solution Services, Inc.
 https://randolphrichard.github.io/marketting-startegy/
 
 ![](develop/assets/images/1.png)
+![1](https://user-images.githubusercontent.com/86902237/131243503-3cc4fef9-85a5-4ef0-bb79-5f9d33ec405e.png)
+
 ![](develop/assets/images/2.png)
+![2](https://user-images.githubusercontent.com/86902237/131243525-a14c0e35-b31c-4f05-bb1e-89b16ba32694.png)
+
 ![](develop/assets/images/3.png)
+![3](https://user-images.githubusercontent.com/86902237/131243538-e8aea6ef-a062-412f-932f-45257b413684.png)
+
 
 
 ## Contribution
