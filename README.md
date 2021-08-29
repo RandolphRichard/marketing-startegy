@@ -25,6 +25,10 @@ Horiseon Social Solution Services, Inc.
 ## Website
 https://randolphrichard.github.io/marketting-startegy/
 
+![](develop/assets/images/1.png)
+![](develop/assets/images/2.png)
+![](develop/assets/images/3.png)
+
 
 ## Contribution
 Made with ❤️ by Randolph Richard
